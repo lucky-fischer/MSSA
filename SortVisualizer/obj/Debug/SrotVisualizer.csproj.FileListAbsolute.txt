@@ -1,0 +1,11 @@
+C:\C# projects\SrotVisualizer\bin\Debug\SrotVisualizer.exe.config
+C:\C# projects\SrotVisualizer\bin\Debug\SrotVisualizer.exe
+C:\C# projects\SrotVisualizer\bin\Debug\SrotVisualizer.pdb
+C:\C# projects\SrotVisualizer\obj\Debug\SrotVisualizer.csproj.AssemblyReference.cache
+C:\C# projects\SrotVisualizer\obj\Debug\SrotVisualizer.csproj.SuggestedBindingRedirects.cache
+C:\C# projects\SrotVisualizer\obj\Debug\SrotVisualizer.Form1.resources
+C:\C# projects\SrotVisualizer\obj\Debug\SrotVisualizer.Properties.Resources.resources
+C:\C# projects\SrotVisualizer\obj\Debug\SrotVisualizer.csproj.GenerateResource.cache
+C:\C# projects\SrotVisualizer\obj\Debug\SrotVisualizer.csproj.CoreCompileInputs.cache
+C:\C# projects\SrotVisualizer\obj\Debug\SrotVisualizer.exe
+C:\C# projects\SrotVisualizer\obj\Debug\SrotVisualizer.pdb

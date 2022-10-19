@@ -1,0 +1,11 @@
+C:\C# projects\FlappyBird_WindowsForm\bin\Debug\FlappyBird_WindowsForm.exe.config
+C:\C# projects\FlappyBird_WindowsForm\bin\Debug\FlappyBird_WindowsForm.exe
+C:\C# projects\FlappyBird_WindowsForm\bin\Debug\FlappyBird_WindowsForm.pdb
+C:\C# projects\FlappyBird_WindowsForm\obj\Debug\FlappyBird_WindowsForm.csproj.AssemblyReference.cache
+C:\C# projects\FlappyBird_WindowsForm\obj\Debug\FlappyBird_WindowsForm.csproj.SuggestedBindingRedirects.cache
+C:\C# projects\FlappyBird_WindowsForm\obj\Debug\FlappyBird_WindowsForm.Form1.resources
+C:\C# projects\FlappyBird_WindowsForm\obj\Debug\FlappyBird_WindowsForm.Properties.Resources.resources
+C:\C# projects\FlappyBird_WindowsForm\obj\Debug\FlappyBird_WindowsForm.csproj.GenerateResource.cache
+C:\C# projects\FlappyBird_WindowsForm\obj\Debug\FlappyBird_WindowsForm.csproj.CoreCompileInputs.cache
+C:\C# projects\FlappyBird_WindowsForm\obj\Debug\FlappyBird_WindowsForm.exe
+C:\C# projects\FlappyBird_WindowsForm\obj\Debug\FlappyBird_WindowsForm.pdb
