@@ -1,0 +1,17 @@
+C:\MSSA\Project\PCAD7_Project_MovieDatabase\obj\Debug\PCAD7_Project_MovieDatabase.csproj.AssemblyReference.cache
+C:\MSSA\Project\PCAD7_Project_MovieDatabase\obj\Debug\PCAD7_Project_MovieDatabase.csproj.SuggestedBindingRedirects.cache
+C:\MSSA\Project\PCAD7_Project_MovieDatabase\obj\Debug\PCAD7_Project_MovieDatabase.Form1.resources
+C:\MSSA\Project\PCAD7_Project_MovieDatabase\obj\Debug\PCAD7_Project_MovieDatabase.Properties.Resources.resources
+C:\MSSA\Project\PCAD7_Project_MovieDatabase\obj\Debug\PCAD7_Project_MovieDatabase.csproj.GenerateResource.cache
+C:\MSSA\Project\PCAD7_Project_MovieDatabase\obj\Debug\PCAD7_Project_MovieDatabase.csproj.CoreCompileInputs.cache
+C:\MSSA\Project\PCAD7_Project_MovieDatabase\bin\Debug\PCAD7_Project_MovieDatabase.exe.config
+C:\MSSA\Project\PCAD7_Project_MovieDatabase\bin\Debug\PCAD7_Project_MovieDatabase.exe
+C:\MSSA\Project\PCAD7_Project_MovieDatabase\bin\Debug\PCAD7_Project_MovieDatabase.pdb
+C:\MSSA\Project\PCAD7_Project_MovieDatabase\bin\Debug\EntityFramework.dll
+C:\MSSA\Project\PCAD7_Project_MovieDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\MSSA\Project\PCAD7_Project_MovieDatabase\bin\Debug\EntityFramework.xml
+C:\MSSA\Project\PCAD7_Project_MovieDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\MSSA\Project\PCAD7_Project_MovieDatabase\obj\Debug\PCAD7_Project_MovieDatabase.csproj.CopyComplete
+C:\MSSA\Project\PCAD7_Project_MovieDatabase\obj\Debug\PCAD7_Project_MovieDatabase.exe
+C:\MSSA\Project\PCAD7_Project_MovieDatabase\obj\Debug\PCAD7_Project_MovieDatabase.pdb
+C:\MSSA\Project\PCAD7_Project_MovieDatabase\obj\Debug\PCAD7_Project_MovieDatabase.Form2.resources
