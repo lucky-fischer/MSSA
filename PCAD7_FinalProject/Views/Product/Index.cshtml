@@ -1,0 +1,53 @@
+﻿@model PCAD7_Project_MVC.Models.IndexViewModel
+ 
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>View</h1>
+
+@if (User.IsInRole("Admin")) {
+    <p>
+        <a asp-action="Create">Create New</a>
+    </p>
+}
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model=>model.Products.First().Id)
+            </th>
+             <th>
+                @Html.DisplayNameFor(model=>model.Products.First().Name)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Products) {
+        <tr>
+            <td>@Html.DisplayFor(modelitem=>item.Id)</td>
+            <td>@Html.DisplayFor(modelitem=>item.Name)</td>
+            <td>    <div style="padding:10px;">
+@*      trying to add product image to this table. nee to figure out how to add more than 2 @model directives or combine into 1
+        @if(Model.imageName != " ")
+        {
+            <img src="~/images/@Model.imageName" height="200" width="200"/>
+        }*@
+    </div>
+    </td>
+            <td>
+                <a asp-action="Details" asp-controller="Product" asp-route-id="@item.Id">Details</a>
+            </td>
+            @if (User.IsInRole("Admin"))
+            {
+                <td>
+                    <a asp-action="Edit" asp-controller="Product" asp-route-id="@item.Id">Edit</a>
+                </td>
+                <td>
+                    <a asp-action="Delete" asp-controller="Product" asp-route-id="@item.Id">Delete</a>
+                </td>
+            }
+        </tr>
+}
+    </tbody>
+</table>

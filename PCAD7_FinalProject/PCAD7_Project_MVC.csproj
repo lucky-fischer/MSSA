@@ -1,0 +1,50 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>PCAD7_Project_MVC</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\images\purplebeltpromo.jpg" />
+    <None Include="wwwroot\images\Gis\AP_GUNDAM_28_1024x102422.webp" />
+    <None Include="wwwroot\images\Gis\ap_x_wing_gundam_white_4.jpg" />
+    <None Include="wwwroot\images\Gis\customGi.jpg" />
+    <None Include="wwwroot\images\Gis\finalfight.jpg" />
+    <None Include="wwwroot\images\Gis\finalfight2.jpg" />
+    <None Include="wwwroot\images\Gis\finalfight3.jpg" />
+    <None Include="wwwroot\images\Gis\Gi리사이징__2__jpg.jpg" />
+    <None Include="wwwroot\images\Gis\God-of-War-Hanfu-Kimono-BJJ-Gi-Dynasty.jpg" />
+    <None Include="wwwroot\images\Gis\gundamGiGreen.jpg" />
+    <None Include="wwwroot\images\Gis\SF_Blanca.jpg" />
+    <None Include="wwwroot\images\Gis\SF_Blanca2.jpg" />
+    <None Include="wwwroot\images\Gis\SF_Blanca3.jpg" />
+    <None Include="wwwroot\images\Gis\SF_Gouki.jpg" />
+    <None Include="wwwroot\images\Gis\SF_Gouki2.jpg" />
+    <None Include="wwwroot\images\Gis\SF_Gouki3.jpg" />
+    <None Include="wwwroot\images\Gis\SF_Gouki4.jpg" />
+    <None Include="wwwroot\images\Gis\SF_RyuGI.jpg" />
+    <None Include="wwwroot\images\Gis\SF_RyuGI2.jpg" />
+    <None Include="wwwroot\images\Gis\SF_RyuGI3.jpg" />
+    <None Include="wwwroot\images\Gis\SF_RyuGI4.jpg" />
+    <None Include="wwwroot\images\Gis\UltimateMuscle.jpg" />
+    <None Include="wwwroot\images\QatarUFCpartners.jpg" />
+    <None Include="wwwroot\images\TrainingLesson.jpg" />
+    <None Include="wwwroot\images\Wakizashi_GroupPhoto.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.9" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.9" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="6.0.9" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.9" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.9">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.9" />
+  </ItemGroup>
+
+</Project>
